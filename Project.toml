@@ -3,6 +3,9 @@ uuid = "672ae402-f28c-46d7-88ec-e0fa647676b4"
 authors = ["Jonathan Miller jonathan.miller@fieldofnodes.com"]
 version = "1.0.0-DEV"
 
+[deps]
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
 [compat]
 julia = "1.6.7"
 
